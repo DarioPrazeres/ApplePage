@@ -50,7 +50,7 @@ header nav ul li a{
    
 }
 .banner{
-    width: 100%;
+    width: 1000px;
     height: 700px;
 
     background-image: url(./icon/expedition_hero.jpg);
